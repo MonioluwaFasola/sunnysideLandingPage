@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Sunnyside agency landing page
 
 ![Design preview for the Sunnyside agency landing page coding challenge](./design/desktop-preview.jpg)
@@ -92,3 +93,8 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# sunnysideLandingPage
+
+This is a junior frontend mentor challenge created with HTML, tailwind CSS and Javascript. The aim of this mini project is to improve my CSS and basic Javascript skills.
+>>>>>>> 368ed950d2780e9ccc6d7e516bf53b9234f0cde2
